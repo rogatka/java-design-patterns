@@ -21,6 +21,40 @@ Reusing design patterns help prevent subtle issues that cause major
 problems, and it also improves code readability for coders and architects who
 are familiar with the patterns.
 
+# Common patterns
+
+**Creational**
+
+*    Singleton
+*    Builder
+*    Prototype
+*    Factory Method
+*    Abstract Factory
+
+**Structural**
+
+*    Adapter
+*    Bridge
+*    Composite
+*    Decorator
+*    Facade
+*    Flyweight
+*    Proxy
+
+**Behavioral**
+
+*    Chain of Responsibility
+*    Command
+*    Interpreter
+*    Iterator
+*    Mediator
+*    Observer
+*    State
+*    Strategy
+*    Template Method
+*    Visitor
+
+
 # Getting started
 
 This site showcases Java Design Patterns. The solutions have been developed by
